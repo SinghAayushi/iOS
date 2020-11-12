@@ -1,0 +1,6 @@
+framework module Pods_Climate_Change {
+  umbrella header "Pods-Climate Change-umbrella.h"
+
+  export *
+  module * { export * }
+}
